@@ -1,0 +1,14 @@
+{
+  "name": "Basic_Server",
+  "version": "1.0.0",
+  "description": "Lab2 of the course Nodejs",
+  "main": "index.js",
+  "author": "seiiib",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
